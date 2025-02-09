@@ -1,4 +1,4 @@
-[![PROMO IMAGE](https://github.com/samarpan9/book_exp/blob/develop/src/readme_placeholder.png)]
+![PROMO IMAGE](https://github.com/samarpan9/book_exp/blob/develop/src/readme_placeholder.png)
 
 This is a Book Explorer page which can be used to look up for sepcific books.
 
